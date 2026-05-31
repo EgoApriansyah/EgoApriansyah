@@ -27,17 +27,8 @@ const ego = {
 ```
 <div align="center">
 
-<div style="display: inline-block; width: 60%; vertical-align: middle;">
-
-# "My goals is not to be better than others, but to be better than yesterday."
-
-</div>
-
-<div style="display: inline-block; width: 35%; vertical-align: middle;">
-
-<img src="https://i.giphy.com/4IKybi5zUz6nRGj19u.webp" width="250"/>
-
-</div>
+| **"My goals is not to be better than others, but to be better than yesterday."** | <img src="https://i.giphy.com/4IKybi5zUz6nRGj19u.webp" width="250"/> |
+|:---:|:---:|
 
 </div>
 
