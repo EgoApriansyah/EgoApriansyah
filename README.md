@@ -1,4 +1,4 @@
-# Halo, Gue Ego! 👋 <!-- omit in toc -->
+# Hello There ![gift!](https://tenor.com/view/anime-hello-hi-hi-there-gif-15307457860161858756)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%F0%9F%92%BB;Laravel+%7C+React+%7C+Next.js+Enjoyer;Flutter+Mobile+Dev+%F0%9F%93%B1;" alt="Typing SVG" />
