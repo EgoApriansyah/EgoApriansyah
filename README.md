@@ -7,7 +7,7 @@
 <div align="center">
 
 [![Discord Badge](https://img.shields.io/badge/Norkii-7289DA?style=flat-square&logo=discord&logoColor=white)](https://discord.com)
-[![Gmail Badge](https://img.shields.io/badge/-apriansyahm38@gmail.com@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:egoapriansyah@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-apriansyahm38@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:egoapriansyah@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-ego_aprsy-purple?style=flat-square&labelColor=purple&logo=instagram&logoColor=white)](https://www.instagram.com/ego_aprsy/)
 [![LinkedIn Badge](https://img.shields.io/badge/Connect%20now-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/m-ego-apriansyah/)
 
