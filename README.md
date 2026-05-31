@@ -1,4 +1,4 @@
-# Hello There <img src="https://media.tenor.com/1G8D0kk1bMQAAAAj/anime-hello.gif" width="50" height="60" margin-top"10" alt="hello gif"/>
+# Hello There <img src="https://media.tenor.com/1G8D0kk1bMQAAAAj/anime-hello.gif" width="50" height="60" alt="hello gif"/>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%F0%9F%92%BB;Laravel+%7C+React+%7C+Next.js+Enjoyer;Flutter+Mobile+Dev+%F0%9F%93%B1;" alt="Typing SVG" />
