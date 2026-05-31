@@ -1,7 +1,7 @@
 # Halo, Gue Ego! 👋 <!-- omit in toc -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%F0%9F%92%BB;Laravel+%7C+React+%7C+Next.js+Enjoyer;Flutter+Mobile+Dev+%F0%9F%93%B1;Masih+Belajar%2C+Masih+Nyoba+%F0%9F%98…" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%F0%9F%92%BB;Laravel+%7C+React+%7C+Next.js+Enjoyer;Flutter+Mobile+Dev+%F0%9F%93%B1;" alt="Typing SVG" />
 </div>
 
 <div align="center">
