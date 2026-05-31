@@ -1,4 +1,4 @@
-# Hello There ![gift!](https://tenor.com/soWtXV6WZG4.gif)
+# Hello There ![gift!](https://media.tenor.com/1G8D0kk1bMQAAAAj/anime-hello.gif)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer+%F0%9F%92%BB;Laravel+%7C+React+%7C+Next.js+Enjoyer;Flutter+Mobile+Dev+%F0%9F%93%B1;" alt="Typing SVG" />
