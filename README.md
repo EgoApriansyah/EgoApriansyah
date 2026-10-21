@@ -21,7 +21,7 @@
 const ego = {
   username:    "EgoApriansyah",
   status:      "Masih pemula",
-  passions:    ["Ngoding", "Tidur", "Nonton Anime"],
+  passions:    ["Ngoding", "Tidur],
   currentlyLearning: ["Next.js", "Clean Architecture", "Cara biar ga bug terus"]
 };
 ```
